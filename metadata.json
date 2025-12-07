@@ -1,0 +1,7 @@
+{
+  "name": "Bangla-Spanish Voice Translator",
+  "description": "A real-time, tri-lingual voice translator between Bangla, English and Spanish using Gemini Live API.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
